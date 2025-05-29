@@ -1,2 +1,2 @@
 # checking-out
-my first repo to test 
+my first repo to test .
